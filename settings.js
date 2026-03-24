@@ -5,15 +5,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2347081046294"
-global.ownername = "𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒐𝒓 𝑱𝑼𝑫𝑨𝑯"
+global.ownernomer = "2349034700302"
+global.ownername = "𝑷𝒓𝒐𝒇𝒆𝒔𝒔or Saviour"
 global.ytname = "YT: ToxxicTech"
 global.socialm = "GitHub: Toxic1239"
 global.location = "Nigeria"
 
-global.ownernumber = '2347081046294'  //creator number
-global.ownername = 'PROFESSOR JUDAH' //owner name
-global.botname = 'JUDAH Digitals' //name of the bot
+global.ownernumber = '2349034700302'  //creator number
+global.ownername = 'PROFESSOR saviour' //owner name
+global.botname = 'saviour TᴇᴄʜX Digitals' //name of the bot
 
 // MENU TYPE
 /* Rules
